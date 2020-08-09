@@ -5,5 +5,5 @@
  */
 
 ;(function (exports, undefined) {
-
+  console.log('xxx')
 })(window);
